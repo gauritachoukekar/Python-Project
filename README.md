@@ -7,11 +7,11 @@
 ✅ Delete tasks that are no longer needed 
 ✅ Persistent storage using SQLite for data management Developed using Visual Studio for an enhanced development experience
 3. Enhancements and Modifications To improve usability and efficiency, the following modifications have been implemented:
- 1.	Database Schema Update: The schema now includes due date and priority fields.
- 2.	Enhanced Task Addition: Users can specify due dates and set priority levels when adding a task.
- 3.	Sorting Mechanism: Tasks are displayed in an organized manner, sorted by due date and priority.
- 4.	User-friendly Interaction: Clear prompts and structured output make the CLI intuitive.
- 5.	Software Development: Implemented using Visual Studio for better code management and debugging.
+   Database Schema Update: The schema now includes due date and priority fields.
+  	Enhanced Task Addition: Users can specify due dates and set priority levels when adding a task.
+  	Sorting Mechanism: Tasks are displayed in an organized manner, sorted by due date and priority.
+  	User-friendly Interaction: Clear prompts and structured output make the CLI intuitive.
+  	Software Development: Implemented using Visual Studio for better code management and debugging.
 4. Technical Implementation
  •	Programming Language: Python
  •	Database: SQLite
