@@ -1,3 +1,4 @@
+#Consists of task id, tasks, Status of the task, Duedate in ASC order, Priority of task in DESC order.
 import sqlite3
 
 # Connect to SQLite database (or create it if it doesn't exist)
